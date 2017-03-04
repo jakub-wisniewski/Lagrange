@@ -358,6 +358,19 @@ pre {
   	transition: .5s;
 }
 
+.fa-youtube {
+	padding: 5px;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition: .5s	 
+}
+
+.fa-youtube:hover {
+	color: #e52d27;
+}
+
 .fa-instagram:hover {
 	color: #375989;
 }
