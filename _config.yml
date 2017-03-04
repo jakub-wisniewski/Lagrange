@@ -3,9 +3,9 @@ title:               Jakub Wiśniewski
 tagline:             Blog
 description:
 baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+url:                #"https://jakub-wisniewski.github.io"
 github:
-  url:               "https://lenpaul.github.io/Lagrange"
+  url:               "https://jakub-wisniewski.github.io/Lagrange"
 author:
   name:              "Paul Le"
   email:             "l.nguyen.paul@gmail.com"
