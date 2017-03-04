@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: O mnie
 title: whataboutme
 ---
 Cześć!
