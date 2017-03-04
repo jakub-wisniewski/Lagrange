@@ -3,9 +3,9 @@
   {% if words < 180 %}
     Mniej niż minuta czytania
   {% elsif words < 360 %}
-    1 minute read
+    Minuta czytania
   {% else %}
-    {{ words | divided_by:180 }} 
+    {{ words | divided_by:180 }} minuty czytania
   {% endif %}
 {% endif %}
 
@@ -14,8 +14,8 @@
   {% if words < 180 %}
     Mniej niż minuta czytania
   {% elsif words < 360 %}
-    1 minute read
+    Minuta czytania
   {% else %}
-    {{ words | divided_by:180 }} 
+    {{ words | divided_by:180 }} minuty czytania
   {% endif %}
 {% endif %}
