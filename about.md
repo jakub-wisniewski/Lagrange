@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About
+title: whataboutme
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing.
+Cześć!
+Nazywam się Jakub Wiśniewski. Z wykształcenia jestem inżynierem informatykiem, a na codzień pracuję jako programista. Jeżeli chodzi o moją religię to jestem chrześcijaninem - katolikiem. Na blogu wypowiadam się luźno na tematy głównie związane z nauką i wiarą.
