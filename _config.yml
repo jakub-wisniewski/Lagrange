@@ -5,7 +5,7 @@ description:
 baseurl:            #"/pl"
 url:                #"https://jakub-wisniewski.github.io"
 github:
-  url:               "https://jakub-wisniewski.github.io/Lagrange"
+  url:               "https://jakub-wisniewski.github.io/pl"
 author:
   name:              "Paul Le"
   email:             "l.nguyen.paul@gmail.com"
