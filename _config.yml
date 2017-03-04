@@ -2,7 +2,7 @@
 title:               Jakub Wiśniewski
 tagline:             Blog
 description:
-baseurl:            #"/Lagrange"
+baseurl:            #"/pl"
 url:                #"https://jakub-wisniewski.github.io"
 github:
   url:               "https://jakub-wisniewski.github.io/Lagrange"
