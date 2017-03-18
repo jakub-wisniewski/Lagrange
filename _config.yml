@@ -20,3 +20,9 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 gems:                [jekyll-paginate]
+
+#comments
+comments :
+    provider : disqus
+    disqus :
+      short_name : jakubwisniewski-blog
