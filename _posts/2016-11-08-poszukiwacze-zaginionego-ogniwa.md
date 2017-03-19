@@ -30,4 +30,4 @@ Druga sprawa to interpretacja tych szczątków kopalnych. Załóżmy, że człow
 
 **Przypisy i odnośniki**
 
-https://pl.wikipedia.org/wiki/Cz%C5%82owiek_z_Piltdown
+1. https://pl.wikipedia.org/wiki/Cz%C5%82owiek_z_Piltdown
