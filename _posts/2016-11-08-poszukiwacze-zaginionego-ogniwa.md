@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Poszukiwacze zaginionego ogniwa
 ---
 ## Poszukiwacze zaginionego ogniwa
 
