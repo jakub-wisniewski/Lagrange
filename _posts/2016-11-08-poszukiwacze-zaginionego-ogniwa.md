@@ -2,9 +2,9 @@
 published: true
 title: Poszukiwacze zaginionego ogniwa
 ---
-## Poszukiwacze zaginionego ogniwa
 
-W imię teorii ewolucji, aby dowieść rzekomego pokrewieństwa między człowiekiem a małpą, popełniono już wiele oszustw. Przykładami takich naukowych mistyfikacji było np. głośne oszustwo tzw. ["człowieka z Piltdown"](https://pl.wikipedia.org/wiki/Cz%C5%82owiek_z_Piltdown) <sup>1</sup>. Tego typu krętactwa naukowe wynikają z gorącego pragnienia znalezienia tzw. „ogniw pośrednich” (ang. missing links), głównie rozpatrywanych w kontekście antropogenezy. Niestety, ale taka jest słabość ludzka. Często chcemy w coś bardzo uwierzyć, a potem „dowody” same się na to znajdują. Osoba, która bardzo chce uwierzyć w ewolucję patrząc na szczątki kopalne wszędzie będzie widziała ogniwa pośrednie, tak jak osoba wierząca w ufo patrząc w niebo wszędzie będzie widziała latające talerze.
+
+W imię teorii ewolucji, aby dowieść rzekomego pokrewieństwa między człowiekiem a małpą, popełniono już wiele oszustw. Przykładami takich naukowych mistyfikacji było np. głośne oszustwo tzw. ["człowieka z Piltdown"](https://pl.wikipedia.org/wiki/Cz%C5%82owiek_z_Piltdown)<sup>1</sup>. Tego typu krętactwa naukowe wynikają z gorącego pragnienia znalezienia tzw. „ogniw pośrednich” (ang. missing links), głównie rozpatrywanych w kontekście antropogenezy. Niestety, ale taka jest słabość ludzka. Często chcemy w coś bardzo uwierzyć, a potem „dowody” same się na to znajdują. Osoba, która bardzo chce uwierzyć w ewolucję patrząc na szczątki kopalne wszędzie będzie widziała ogniwa pośrednie, tak jak osoba wierząca w ufo patrząc w niebo wszędzie będzie widziała latające talerze.
 
 Załóżmy, że mamy gatunek A i gatunek B. Osoba, która wierzy w powszechne pokrewieństwo pomiędzy gatunkami, uważa że jeżeli znajdzie jakiś gatunek morfologicznie zbliżony do A i B, to dowiedzie w ten sposób naturalnego transformizmu pomiędzy tymi gatunkami. Ale znajdując ten hipotetyczny gatunek C nie rozwiązujemy problemu. Teraz po prostu zamiast jednego brakującego ogniwa mamy dwa brakujące ogniwa: między A i C oraz między C i B.
 
