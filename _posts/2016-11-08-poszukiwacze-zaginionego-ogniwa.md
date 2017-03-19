@@ -1,6 +1,9 @@
 ---
 published: true
 title: Poszukiwacze zaginionego ogniwa
+image:
+  feature: ape.png
+  teaser: ape.png
 ---
 
 
