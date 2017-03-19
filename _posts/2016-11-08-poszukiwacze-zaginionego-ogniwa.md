@@ -27,7 +27,3 @@ Znajdujemy gatunki F,G,H,I.
 I tak dalej, ad infinitum. Taki algorytm wyszukiwania brakujących ogniw nigdy się nie zakończy. Przypomina to trochę wyszukiwanie brakujących ogniw między liczbą 1 a 2. Takich ogniw można sobie wstawiać nieskończenie wiele.
 
 Druga sprawa to interpretacja tych szczątków kopalnych. Załóżmy, że człowiek ze zdeformowaną czaszką cierpiący na  małogłowie (mikrocefalia) zostałby pogrzebany w jakieś powodzi. Kiedy po latach ewolucyjny paleontolog odkopałby takie szczątki to zakwalifikowałby je jako należące do zupełnie innego gatunku niż homo sapiens, i zapewne stwierdziłby, że jest to ogniwo pośrednie pomiędzy małpą a człowiekiem. Jest to fałszywa interpretacja danych, ponieważ jest to zwykły człowiek tylko, że zdeformowanym układem kostnym.
-
-**Przypisy i odnośniki**
-
-1. https://pl.wikipedia.org/wiki/Cz%C5%82owiek_z_Piltdown
