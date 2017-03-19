@@ -9,9 +9,11 @@ Nie wiem. Nie zgadzam się. Ponieważ porządek stworzenia jest inny niż prezen
 
 Jeżeli prawa nauki tłumaczą X wówczas przywoływanie transcendnetnego, rozumnego bytu do wytłumaczenia X jest zbędne. Teoria wielkiego wybuchu wypływa z naturalizmu metodologicznego, i stara się wytłumaczyć genezę kosmosu tylko i wyłącznie poprzez prawa naturalne, które działają w świecie, jak np. prawo grawitacji. 
 
-Kiedyś uważano, że bóg Zeus jest przyczyną piorunów na niebie. Wraz z postępem nauki, naukowcy wykazali, że twierdzenie to jest nieprawdą, ponieważ za powstanie piorunów odpowiadają wyładowania atmosferyczne. Ktoś jednak dalej może upierać się mimo tego postępu naukowego, że to Zeus, i to dokładnie ten konkretny byt rozumny jest odpowiedzialny za bombardowanie piorunami. A dlaczego nie np. Thor? Skąd on to wie? 
+Kiedyś uważano, że bóg Zeus jest przyczyną piorunów na niebie. Wraz z postępem nauki, naukowcy wykazali, że twierdzenie to jest nieprawdą, ponieważ za powstanie piorunów odpowiadają wyładowania atmosferyczne. Ktoś jednak dalej może upierać się mimo tego postępu naukowego, że to Zeus, i to dokładnie ten konkretny byt rozumny jest odpowiedzialny za bombardowanie piorunami. A dlaczego nie np. Thor? Skąd on to wie? I sąd wiesz, że objawienie, które zostało ci przekazane jest prawdziwe? Na bazie jakiego kryterium stwierdzisz, że jest prawdziwe? 
 
 Ktoś dalej mimo naukowego postępu może wierzyć, że pioruny są powodowane przez Zeusa, a prawa naturalne są wyłącznie wtórnymi przyczynami, którymi się psługuje dla osiągnięcia swego celu, jednak w takiej sytuacji istnienie Zeusa jest całkowicie nieidentyfikowalne. Jest to obiekt ślepej wiary. Racjonalnie nie mamy żadnych podstaw dla uznania. Jeżeli ktoś domaga się ode mnie, abym akceptował, że to Zeus powoduje pioruny, to wówczas to nie na mnie spoczywa ciężar dowodowy, aby bronić tezy, że nie powoduje, lecz na osobie, która broni tezy, że to Zeus to robi.
+
+Mogło to być, ponieważ jako chrześcijanin wierzę, czyli Bóg jest odpowiedzialny jako praprzyczyna wszystkei i suwerenny Stwórca jest odpowiedzialny za wszystko co się dzieje w tym świecie. I wówczas Bóg jest przyczyną powstawania piorunów, ponieważ to Bóg stworzył takie, a nie inne prawa natury, aby te wyładowania atmosferyczne następowały. Niemniej jednak, istnienie Boga jest w tym miejscu niemożliwe do zbadania. Istnienie Boga można w tym miejscu przyjąć lub nie przyjąć. System jest spójny bez Boga. 
 
 To jest tak jakby tłumaczyć powstanie gry komputerowej poprzez prawa, które rządzą w tej grze. 
 
