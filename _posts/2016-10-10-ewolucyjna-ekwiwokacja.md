@@ -2,9 +2,8 @@
 published: true
 title: Ewolucyjna ekwiwokacja
 ---
-## Ewolucyjna ekwiwokacja
 
-> _Słowo „dobry” posiada wiele znaczeń. Przykładowo, jeżeli jakiś mężczyzna
+Słowo „dobry” posiada wiele znaczeń. Przykładowo, jeżeli jakiś mężczyzna
 ustrzeliłby swoją babcię z odległości pięciuset jardów, nazwałbym go dobrym
 strzelcem, ale niekoniecznie dobrym człowiekiem.
 **– G. K. Chesterton**
