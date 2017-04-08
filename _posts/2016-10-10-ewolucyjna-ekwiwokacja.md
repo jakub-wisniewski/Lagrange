@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Ewolucyjna ekwiwokacja
 ---
 ## Ewolucyjna ekwiwokacja
 
