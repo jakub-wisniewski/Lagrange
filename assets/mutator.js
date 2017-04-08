@@ -33,7 +33,7 @@ var $txt = $("#text") // blast-root
 empty.on("click",function(){
 	$(this).hide();
 	$txt.empty()
-	$txt.text("<br><br><br><br>")
+	$txt.html("<br><br><br><br>")
 	$txt.attr('contenteditable','true')
 	info.text("")
 	mutationInfo.text("")
