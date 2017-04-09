@@ -31,5 +31,32 @@ Czy to oznacza, że Bóg stworzył ciernie? Czy to oznacza, że Bóg stworzył �
 
 Spójrz na świat, jaki on jest piękny. To nie jest piękny świat. Są to najczęściej osoby, ale potem zdjąłem klapki z oczu i zobaczyłem jaki świat jest naprawdę. 
 
+### Pozytywne mutacje
+
+Kiedy dyskusja sprowadza się na tor mutacji, to istnieje zgoda co do tego, że mutacje występują. Obie strony się zgadzają.
+
+Doktor wytyka profesorowi Giertychowi, że nie ma racji. Jest to mutacja pozytywna, ponieważ zwiększa ona szansę przetrwania. 
+
+Widzimy więc, że doktor w przyjętym systemie aksjologicznym uznaje przeżycie jako wartość relatywnie względem której osądzać będzie czy jakaś zmiana jest pozytywna, negatywna, bądź neutralna.
+
+
+Kiedy klasyfikujemy jakąś mutację, pomocnym będzie nakreślenie następującej tabelki:
+
+ESTETYZM UTYLITARYZM  FUNKCJONALNOŚĆ  Przydatność dla człowieka
+
+gdzie to każdej komórki wpiszemy, że jest to mutacja pozytywna, neutralna bądź negatywna. 
+
+Kiedy więc rozpatrujemy przypadek krowy belgijskiej. W wyniku mutacji, tkanka mięśniona została zwiększona o 20%. 
+
+Pod względem estetycznym nastąpiła tutaj jednoznaczna.
+
+
+Bez zrozumienia tego konfliktu, dyskusja zapewne wyglądała by następująco: nie masz racji. Ta mutacja jest z oczywistych względów pozytywna. Widzimy przecież, że z tak zwiększoną masą mięśniową, hodowca ma więcej mięsa. 
+
+No tak, ale czy krowa mogłaby powiedzieć to samo? Czy krowa jest zadowolona z tego? I wreszcie, czy w ramach kategorii estetycznej mamy tutaj co czynienia z inowlucją czy też z ewolucją?
+
+
+To jest właśnie. 
+
 
 
