@@ -4,7 +4,7 @@ title: Ostateczne rozwiązanie konfliktu pomiędzy kreacjonizmem a ewolucjonizme
 ---
 Jakiś czas temu dyskutowałem z zaprzyjaźnioną biolożką na temat specjacji i biogeografii. Tłumaczyłem jej w jaki sposób proces naturalnej selekcji i izolacji redukuje pulę genetyczną z populacji rodzicielskiej, prowadząc do chowu wsobnego. Była maprawdę zdumiona tym co mówię, ponieważ ze wszystkim się zgadzała. "To fascynujące co mówisz, myślałam, że jesteś kreacjonistą". PRzyznała mi rację, że takie procesy redukują pulę genetyczną, a więc nowo powstała wyizolowana populacja jest teraz uboższa od populacji ancestralnej. Przyznała mi rację i była zdumiona, tym że słyszy to z kreacjonisty. 
 
-Przez pryzmat moich dyskusji z ewolucjonistami, zrozumiałem, iż płaszczyzna nieporozumienia pomiędzy nami nie rozgrywa się na płaszczyźnie nauk przyrodniczych, lecz na gruncie filozofii, a konkretniej aksjologii.
+Przez pryzmat moich dyskusji z ewolucjonistami, zrozumiałem, iż płaszczyzna nieporozumienia pomiędzy nami, w głównej mierze nie rozgrywa się na płaszczyźnie nauk przyrodniczych, lecz na gruncie filozofii, a konkretniej aksjologii.
 
 Aksjologia  (gr. αξιοs - godny, cenny + λογοs - nauka) jest działem filozofii, który traktuje o wartościach: co jest dobre, co jest piękne (estetyzm). 
 
