@@ -1,9 +1,6 @@
 ---
 published: true
 title: Łaska buduje na naturze - mój komentarz
-image:
-  feature: matka.jpg 
-  teaser: matka.jpg 
 ---
 
 
