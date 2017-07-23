@@ -1,5 +1,5 @@
 ---
-title: O obrazie Boga, który za karę odbiera rozum
+title: O wyobrażeniu Boga, który za karę odbiera rozum
 published: true
 ---
 
