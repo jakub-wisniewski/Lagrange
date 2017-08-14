@@ -1,5 +1,5 @@
 ---
-title: O wyobrażeniu Boga, który za karę odbiera rozum
+title: Jak Bóg chce kogoś ukarać to mu rozum odbiera
 published: true
 ---
 
