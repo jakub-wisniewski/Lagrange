@@ -1,5 +1,6 @@
 ---
 published: true
+title: Drzewo życia to artefakt
 ---
 ![venter.jpg]({{site.baseurl}}/images/venter.jpg)
 
