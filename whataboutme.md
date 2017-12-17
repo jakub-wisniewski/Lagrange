@@ -8,11 +8,9 @@ published: true
 
 Nazywam się Jakub Wiśniewski. 
 
-Jestem człowiekiem, który 27 lat temu spadł na Ziemię. Pojawiłem się na tej planecie całkiem (nie)zwyczajnie. Zaczynałem jako embrion wielkością nieprzekraczającej kropki na końcu tego zdania. Otrzymałem zestaw genów od mojego taty oraz mamy, a także cały bagaż szkodliwych mutacji odpowiedzialnych za różne choroby, wady i inne specjalności, ponieważ w przeszłości ludzie zajadali się owocami nie z tych drzew co trzeba, a i węże były zbyt gadatliwe. 
+Jestem człowiekiem, który 27 lat temu spadł na Ziemię. Staram się twardo po niej stąpać, ale z drugiej strony Newton wynalazł prawo ciążenia, więc mogę spokojnie chodzić z głową w chmurach.
 
-Staram się twardo stąpać po ziemi, ale z drugiej strony Newton wynalazł prawo ciążenia więc mogę spokojnie chodzić z głową w chmurach. 
-
-Z wykształcenia jestem inżynierem informatykiem, ale poza swoją pracą w dziedzinie IT interesuję się zagadnieniem naszego pochodzenia. Na blogu w dużej mierze poruszam więc kwestie tematy związane z Bogiem, stworzeniem oraz ewolucją. 
+Z wykształcenia jestem inżynierem informatykiem. Na moim prywatnym blogu poruszam tematy głównie związane z Bogiem, biblią, problemem naszego pochodzenia oraz celu do którego zmierzamy. 
 
 
 
